@@ -36,7 +36,13 @@ Prevent layout shifts using fixed tile count in small multiples.
 
 **4. Improved Grid & Scrolling Behavior**                                                                                              
 Multi-row/column display allows better card arrangement.                                                                     
-Continuous scrolling replaces pagination for smoother navigation.                              
+Continuous scrolling replaces pagination for smoother navigation.       
+
+## Dashboard
+![1](https://github.com/user-attachments/assets/2dcf3d9e-08f9-4dec-aa52-f9a45df1ab33)
+![2](https://github.com/user-attachments/assets/20430654-f4c9-4ff9-af17-e22153910612)
+![3](https://github.com/user-attachments/assets/62e77ea0-1e22-4b78-be3f-3483ba7aa003)
+
 
 ## Visual & Text Formatting Enhancements
 **1. Label and Font Styling**                                                                                         
