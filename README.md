@@ -32,11 +32,33 @@ Customize visibility and placement for better visual balance.
 
 **3. Consistent Card Dimensions**                                       
 Maintain uniform card sizes when filters are applied.                                         
-Prevent layout shifts using fixed tile count in small multiples.                                                    
+Prevent layout shifts using fixed tile count in small multiples.   
 
 **4. Improved Grid & Scrolling Behavior**                                                                   
 Multi-row/column display allows better card arrangement.                                               
-Continuous scrolling replaces pagination for smoother navigation.                                              
+Continuous scrolling replaces pagination for smoother navigation.
+
+## Visual & Text Formatting Enhancements
+**1. Label and Font Styling**
+Customize font size, color, and visibility of callouts and labels.
+Hide label titles (e.g., “first position”) for cleaner display.
+
+**2. Padding, Spacing, and Rounded Corners**
+Improve layout using extra spacing, rounded edges, and minimal padding.
+Align elements neatly with spacing between cards.
+
+## Versatile Applications
+**These features can be used across departments like:**
+**HR:** Employee directories
+**Sales:** Product or client cards
+**Finance:** Region-wise performance cards
+
+## Conclusion
+The March 2025 Power BI update is a game changer for dashboard developers. With flexible design options, advanced interactivity, and clean layouts, users can now create modern, functional, and user-friendly dashboards using the new card visuals.
+
+
+
+                                              
 
 
 
